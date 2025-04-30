@@ -1,1 +1,1 @@
-![logo](image.jpg?raw=true "Actify")
+![logo](download.jpg?raw=true "Actify")
