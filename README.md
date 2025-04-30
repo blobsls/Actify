@@ -1,1 +1,1 @@
-![logo](/repository/assets/actify?raw=true)
+![logo](https://github.com/blobsls/Actify/actify.png)
