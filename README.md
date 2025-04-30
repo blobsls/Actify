@@ -1,1 +1,1 @@
-![logo](https://github.com/blobsls/Actify/actify.png)
+![logo](https://github.com/blobsls/Actify/actify.jpg)
