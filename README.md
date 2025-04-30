@@ -1,1 +1,1 @@
-![logo](https://github.com/blobsls/Actify/actify.jpg)
+![logo](image.jpg?raw=true "Actify")
