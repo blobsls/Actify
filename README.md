@@ -1,1 +1,1 @@
-![logo](/repository/assets/s?raw=true)
+![logo](/repository/assets/actify?raw=true)
